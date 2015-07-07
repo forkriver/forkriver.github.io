@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hi there
+excerpt: This is the shorteration.
 ---
 
 So this seems to work now. That's good.
